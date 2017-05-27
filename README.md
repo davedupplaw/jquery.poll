@@ -1,4 +1,5 @@
+# jQuery Poll Bar Graph
 
-View the results of a poll as a realtime bargraph
+A realtime updatable bargraph, ideal for showing the results of a poll.
 
-http://david.dupplaw.me.uk/developer/jquery-pollbargraph
+For information, examples and see it in action, go to: http://david.dupplaw.me.uk/developer/jquery-pollbargraph
